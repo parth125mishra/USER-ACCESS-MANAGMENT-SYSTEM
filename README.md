@@ -4,6 +4,9 @@
 
 The **User Access Management System** is a web-based platform designed to streamline the management of software access requests. The system supports three user roles—**Employee**, **Manager**, and **Admin**—each with distinct functionalities to facilitate role-based access control. 
 
+## Video of the project
+https://drive.google.com/file/d/1nZLDLt7ZgaTTqSxyjmiBQN0JrrnlgNtM/view?usp=sharing
+
 ## Features
 
 ### For Employees
