@@ -1,0 +1,10 @@
+<web-app xmlns="http://java.sun.com/xml/ns/javaee" version="3.0">
+  <servlet>
+    <servlet-name>SignUpServlet</servlet-name>
+    <servlet-class>com.servlet.SignupServlet</servlet-class>
+  </servlet>
+<!--  <servlet-mapping>-->
+<!--    <servlet-name>SignUpServlet</servlet-name>-->
+<!--    <url-pattern>/signup</url-pattern>-->
+<!--  </servlet-mapping>-->
+</web-app>
